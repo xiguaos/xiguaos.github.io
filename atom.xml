@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiguaos.github.io</id>
+    <title>xigua</title>
+    <updated>2022-07-06T00:27:05.700Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiguaos.github.io"/>
+    <link rel="self" href="https://xiguaos.github.io/atom.xml"/>
+    <subtitle>西瓜放假了</subtitle>
+    <logo>https://xiguaos.github.io/images/avatar.png</logo>
+    <icon>https://xiguaos.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, xigua</rights>
+    <entry>
+        <title type="html"><![CDATA[哈嗨，节日祝福]]></title>
+        <id>https://xiguaos.github.io/post/ha-hai-jie-ri-zhu-fu/</id>
+        <link href="https://xiguaos.github.io/post/ha-hai-jie-ri-zhu-fu/">
+        </link>
+        <updated>2022-06-02T11:24:15.000Z</updated>
+        <content type="html"><![CDATA[<p>6.1：六一儿童节快乐！<br>
+6.2：上学中....<br>
+6.3：端午节快乐！<br>
+<s>当然，我肯定不更视频</s></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[就是水]]></title>
+        <id>https://xiguaos.github.io/post/jiu-ming/</id>
+        <link href="https://xiguaos.github.io/post/jiu-ming/">
+        </link>
+        <updated>2022-05-27T05:46:35.000Z</updated>
+        <content type="html"><![CDATA[<p>哈也没有<br>
+<s>就是水</s></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西瓜os的网页自述]]></title>
+        <id>https://xiguaos.github.io/post/xi-gua-os-de-wang-ye-zi-shu/</id>
+        <link href="https://xiguaos.github.io/post/xi-gua-os-de-wang-ye-zi-shu/">
+        </link>
+        <updated>2022-05-13T10:54:19.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好，我是西瓜。<br>
+这个网页是我<s>懒得更新</s>不能更新的时候在这里发文章的。<br>
+为什么要用chic主题？因为<s>懒得找</s>觉得简洁好看。<br>
+好了，再见。</p>
+]]></content>
+    </entry>
+</feed>
